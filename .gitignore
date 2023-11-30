@@ -6,7 +6,7 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+*.so8
 
 # tests and logs
 tests/fixtures/cached_*_text.txt
